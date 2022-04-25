@@ -1,4 +1,7 @@
-### Hi there 👋
+![Me goofily posing in front of a painted shipping container][gifme]
+### 👋
+
+[gifme]: https://i.imgur.com/cuVkiJX.gif "Feel free to follow~"
 
 <!--
 **craigbossley/craigbossley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
